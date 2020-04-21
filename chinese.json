@@ -3285,7 +3285,7 @@
 			"windowTitleContainer": ["容器"],
 			"windowTitleCrafting": ["制作"],
 			"windowTitleEquipment": ["装备"],
-			"windowTitleInventory": ["物品栏"],
+			"windowTitleInventory": ["物品栏"]
 		},
 		"uiQuadrant": {
 			"none": "存储箱",
