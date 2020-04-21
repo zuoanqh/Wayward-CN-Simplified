@@ -572,7 +572,7 @@
 			"gatheredPlant": "被收集的植物",
 			"fireSource": "火源",
 			"litTorch": "点燃的火炬",
-			"lightDevice": "轻设备",
+			"lightDevice": "光源设备",
 			"lightSource": "光源",
 			"litStructure": "有照明的建筑物"
 		},
